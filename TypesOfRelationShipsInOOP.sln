@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesOfRelationShipsInOOP", "TypesOfRelationShipsInOOP\TypesOfRelationShipsInOOP.csproj", "{27C54AF0-F889-45EB-B718-6867A9F0CB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionInOOP", "CompositionInOOP\CompositionInOOP.csproj", "{0E262122-0FD1-4964-A834-6010A4950BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelOOPAssociation", "RelOOPAssociation\RelOOPAssociation.csproj", "{E919E9EB-432F-41BA-AFB8-107CF968703B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C54AF0-F889-45EB-B718-6867A9F0CB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C54AF0-F889-45EB-B718-6867A9F0CB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C54AF0-F889-45EB-B718-6867A9F0CB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C54AF0-F889-45EB-B718-6867A9F0CB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E262122-0FD1-4964-A834-6010A4950BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E262122-0FD1-4964-A834-6010A4950BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E262122-0FD1-4964-A834-6010A4950BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E262122-0FD1-4964-A834-6010A4950BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {119A31DB-6322-4DCA-B091-88419AA164FE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://fard.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CompositionInOOP\\CompositionInOOP.csproj
+		SccProjectName1 = CompositionInOOP
+		SccLocalPath1 = CompositionInOOP
+		SccProjectUniqueName2 = RelOOPAssociation\\RelOOPAssociation.csproj
+		SccProjectName2 = RelOOPAssociation
+		SccLocalPath2 = RelOOPAssociation
+		SccProjectUniqueName3 = TypesOfRelationShipsInOOP\\TypesOfRelationShipsInOOP.csproj
+		SccProjectName3 = TypesOfRelationShipsInOOP
+		SccLocalPath3 = TypesOfRelationShipsInOOP
+	EndGlobalSection
+EndGlobal
