@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionInOOP", "Composi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelOOPAssociation", "RelOOPAssociation\RelOOPAssociation.csproj", "{E919E9EB-432F-41BA-AFB8-107CF968703B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregationOOP", "AggregationOOP\AggregationOOP.csproj", "{B810DC7A-71F0-43D7-96E2-EE03470A33B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,26 +29,15 @@ Global
 		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E919E9EB-432F-41BA-AFB8-107CF968703B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B810DC7A-71F0-43D7-96E2-EE03470A33B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B810DC7A-71F0-43D7-96E2-EE03470A33B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B810DC7A-71F0-43D7-96E2-EE03470A33B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B810DC7A-71F0-43D7-96E2-EE03470A33B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {119A31DB-6322-4DCA-B091-88419AA164FE}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://fard.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = CompositionInOOP\\CompositionInOOP.csproj
-		SccProjectName1 = CompositionInOOP
-		SccLocalPath1 = CompositionInOOP
-		SccProjectUniqueName2 = RelOOPAssociation\\RelOOPAssociation.csproj
-		SccProjectName2 = RelOOPAssociation
-		SccLocalPath2 = RelOOPAssociation
-		SccProjectUniqueName3 = TypesOfRelationShipsInOOP\\TypesOfRelationShipsInOOP.csproj
-		SccProjectName3 = TypesOfRelationShipsInOOP
-		SccLocalPath3 = TypesOfRelationShipsInOOP
 	EndGlobalSection
 EndGlobal
